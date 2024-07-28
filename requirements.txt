@@ -1,0 +1,9 @@
+coverage==6.2
+DateTime==4.9
+flake8==7.1.0
+marshmallow==3.21.3
+numpy==1.23.5
+pandas==2.2.2
+pytest==8.2.2
+python-dateutil==2.9.0
+python-dotenv==1.0.1
