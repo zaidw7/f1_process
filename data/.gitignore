@@ -1,0 +1,4 @@
+# Ignoring everything in this directory except the input and .gitignore files
+*
+!.gitignore
+!f1_drivers_input.csv
